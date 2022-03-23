@@ -1,27 +1,19 @@
-### Hi there 👋
+### Hola, 👋
 
-<!--
-**abhisheksatpute369/abhisheksatpute369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Hii! My Name is Abhishek. Thank-you for taking the time to view my Github Profile.:smile:
+
 ### About Me
-- :telescope: From my childhood I am curious about technology & try to solve problem which troubles my mind.
-- :seedling: I’m currently learning MERN stack in MASAI school Benagalore.
-- :zap:Apart from tech I like to Cycling, Trekking, Traveling.
-- :speech_balloon: Have a look on my portfolio:https://abhisheksatpute369.netlify.app/
+
+- 🔭 From my childhood I am curious about technology & try to solve problem which troubles my mind.
+- 🌱 I’m currently learning MERN stack in MASAI school Benagalore.
+- 👯 I’m looking for respective career in web development.
+- 💬 Ask me about problem solving.
+- 📫 Have a look on my portfolio: [abhisheksatpute369](https://abhisheksatpute369.netlify.app)
+- 😄 Pronouns: He / His
+- ⚡ Fun fact: Come with me for Cycling and Trekking.
+ 
 ### Skills
-<a href="https://getbootstrap.com" target="blank">
+<a href="https://getbootstrap.com" target="blank" style="margin-right: 30px">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="50" width="50" />
 </a>
 
