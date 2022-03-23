@@ -61,15 +61,21 @@ Hii! My Name is Abhishek. Thank-you for taking the time to view my Github Profil
 <a href="https://www.cprogramming.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" width="50" />
 </a>
-<br>
-### Connect with me <br>
+
+<a href="https://www.adobephotoshop.com/" target="blank">
+<img align="center" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" alt="photoshop" height="50" width="50" />
+</a>
+
+
+### Connect with me 
 <a href="https://www.linkedin.com/in/abhisheksatpute369/" target="blank">
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwDJB5CoM0AwKPRHbg4NYNzP6nNBWJ6a1E_MwbkTlDby2KG6lOfoDiL23AcMUuGy05MI&usqp=CAU" alt="LINKEDIN" height="50" width="50" />
 </a>
 <a href="https://abhisheksatpute369.netlify.app/" target="blank">
 <img align="center" src="https://www.seekpng.com/png/detail/838-8388847_portfolio-png-photos-portfolio-logo-png.png" alt="portfolio" height="50" width="50" />
 </a>
-<br>
-### My Stat's <br>
+
+
+### My Stat's 
  <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksatpute369&show_icons=true&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="MS1098 stats card" /></p>
