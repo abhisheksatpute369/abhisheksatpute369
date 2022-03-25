@@ -1,5 +1,6 @@
 
-![Black_LinkedIn](https://user-images.githubusercontent.com/96281694/159968242-d2415b56-e5a9-434b-828d-2d7927ee4690.jpg)
+
+![Margarita Perez (1)](https://user-images.githubusercontent.com/96281694/160105788-19f7b1ea-b1d2-407e-b4a8-f2057c88db64.jpg)
 
 ### Hola, 👋
 
