@@ -6,6 +6,10 @@
 
 Hii! My Name is Abhishek. Thank-you for taking the time to view my Github Profile.:smile:
 
+<div align="center">
+<img src='https://user-images.githubusercontent.com/96281694/189100135-a58a6a41-49f3-4da9-9606-489c367b47f9.gif'/>
+</div>
+
 ### About Me
 
 - 🔭 From my childhood I am curious about technology & try to solve problem which troubles my mind.
@@ -73,8 +77,10 @@ Hii! My Name is Abhishek. Thank-you for taking the time to view my Github Profil
 
 
 ### My Stat's 
+<div align="center">
  <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksatpute369&show_icons=true&theme=dark&title_color=1f6cdd&text_color=cecece&bg_color=333333&hide_border=true" alt="abhisheksatpute369 stats card" /></p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksatpute369&show=html,css,javascript&theme=tokyonight) -->
+</div>
  
