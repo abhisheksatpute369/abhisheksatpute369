@@ -13,7 +13,7 @@ Hii! My Name is Abhishek. Thank-you for taking the time to view my Github Profil
 ### About Me
 
 - 🔭 From my childhood I am curious about technology & try to solve problem which troubles my mind.
-- 🌱 I’m currently learning MERN stack in MASAI school Benagalore.
+- 🌱 I’m currently work as a full stack developer at ALLEN Career Institute.
 - 👯 I’m looking for respective career in web development.
 - 💬 Ask me about problem solving.
 - 📫 Have a look on my portfolio: [abhisheksatpute369](https://abhisheksatpute369.netlify.app)
